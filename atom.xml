@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>杭州前端交流群 - 199595055</title>
+  <subtitle>前端联盟杭州地区唯一官方网站</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://hangzhoujs.github.io/"/>
+  <updated>2017-06-13T08:36:30.000Z</updated>
+  <id>http://hangzhoujs.github.io/</id>
+  
+  <author>
+    <name>杭州前端交流群 199595055</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>【求职】- 李超洋/ 男</title>
+    <link href="http://hangzhoujs.github.io/2017/06/02/job/licy-2017-06-02/"/>
+    <id>http://hangzhoujs.github.io/2017/06/02/job/licy-2017-06-02/</id>
+    <published>2017-06-02T14:30:12.000Z</published>
+    <updated>2017-06-13T08:36:30.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="个人信息"><a href="#个人信息" class="headerlink" title="个人信息"></a>个人信息</h2><p>姓名： 李超洋<br>性别： 男<br>出生： 1997<br>专业： 计算机应用技术<br>学历： 大专（2018毕业）<br>GitHub: <a href="https://github.com/lcysgsg" target="_blank" rel="external">https://github.com/lcysgsg</a><br>手机： 18257507577<br>Email:  249313573@qq.com</p>
+<h2 id="技术栈"><a href="#技术栈" class="headerlink" title="技术栈"></a>技术栈</h2><h4 id="前端"><a href="#前端" class="headerlink" title="前端"></a>前端</h4><ol>
+<li>HTML + CSS 能熟练制作页面， 还原PSD</li>
+<li>能较熟练运用 JavaScript 处理需求</li>
+<li>能使用 AJAX 与后端交互</li>
+<li>对 JavaScript 的设计模式有一定认识（前后端耦合、MV*架构）</li>
+<li>正在使用 Vue2.0.js + Vue-cli + webpack 开发个人网站</li>
+</ol>
+<h4 id="后端"><a href="#后端" class="headerlink" title="后端"></a>后端</h4><ol>
+<li>PHP + MySQL 能制作基本的PHP网站</li>
+<li>提供简易的接口供前端使用</li>
+</ol>
+<h2 id="学习经历"><a href="#学习经历" class="headerlink" title="学习经历"></a>学习经历</h2><h6 id="大一"><a href="#大一" class="headerlink" title="大一"></a>大一</h6><p>学生会， 入门 HTML CSS， </p>
+<h6 id="大二"><a href="#大二" class="headerlink" title="大二"></a>大二</h6><p>入门 JavaScript + PHP + MySQL  ， 制作大量静态页面<br>后来，明确主攻前端开发<br>在 FreeCodeCamp、百度前端学院 做 js 练习题<br>观看 MOOC、Udacity等在线视频学习<br>逛各技术社区<br>做笔记发博客、更新GitHub<br>在读《JavaScript高级程序设计》、《你不知道的JavaScript 上册》</p>
+<h2 id="作品"><a href="#作品" class="headerlink" title="作品"></a>作品</h2><p>PHP 纺织网站 展示型+后台管理<br>ThinkPHP5 农家乐旅游网站 有购物功能+后台管理（无支付功能）<br>使用 vue.js + vue-cli + webpack 开发的个人博客（未完成）</p>
+<h2 id="个人评价"><a href="#个人评价" class="headerlink" title="个人评价"></a>个人评价</h2><p>热爱前端开发， 有自学能力， 擅长通过网络解决问题， 能浏览一定的英文文档</p>
+<h4 id="地点"><a href="#地点" class="headerlink" title="地点"></a>地点</h4><p>杭州， 浙江 最好</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;个人信息&quot;&gt;&lt;a href=&quot;#个人信息&quot; class=&quot;headerlink&quot; title=&quot;个人信息&quot;&gt;&lt;/a&gt;个人信息&lt;/h2&gt;&lt;p&gt;姓名： 李超洋&lt;br&gt;性别： 男&lt;br&gt;出生： 1997&lt;br&gt;专业： 计算机应用技术&lt;br&gt;学历： 大专（2018毕业）&lt;
+    
+    </summary>
+    
+      <category term="job" scheme="http://hangzhoujs.github.io/categories/job/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>【求职】- 潘宾宾 / 男 / 3年前端</title>
+    <link href="http://hangzhoujs.github.io/2017/04/01/job/index/"/>
+    <id>http://hangzhoujs.github.io/2017/04/01/job/index/</id>
+    <published>2017-03-31T23:30:12.000Z</published>
+    <updated>2017-06-13T08:36:30.000Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="个人信息"><a href="#个人信息" class="headerlink" title="个人信息"></a>个人信息</h3><ul>
+<li>出生年月：    1991.10.21</li>
+<li>民   族：    汉</li>
+<li>学    历：    大专</li>
+<li>专   业：    计算机管理与信息</li>
+<li>工作经验：     3 年</li>
+<li>联系电话：    13291177762</li>
+<li>毕业学校：    芜湖联合大学</li>
+<li>住    址：    安徽省芜湖市奥运康城小区</li>
+<li>电子信箱：    756404056@qq.com</li>
+<li>爱    好：    宅，学习，提高自己</li>
+<li>应聘岗位：    前端开发工程师</li>
+</ul>
+<h3 id="技能"><a href="#技能" class="headerlink" title="技能"></a>技能</h3><ul>
+<li>精通JavaScript/html5/css3，熟悉vueJs/angularJs/bootstrap/jQuery/avalonJs/等框架技术，熟悉gulp/webpack前端构建工具（做过支付宝钉钉小程序开发，了解reaect，es6）</li>
+<li>对于web性能优化有一定的认识，能够快速的给出页面优化方案</li>
+<li>了解app混合开发的相关知识，熟悉git/svn版本控制工具</li>
+</ul>
+<h3 id="作品："><a href="#作品：" class="headerlink" title="作品："></a>作品：</h3><ul>
+<li><p>2014.3—2016.6    完美世界 <code>前端开发工程师</code><br>日常的前端开发工作，专题制作，网站维护<br>前端团队代码规范制定与前端自动化构建的推广</p>
+</li>
+<li><p>2016.6—至今    麦迪斯顿科技医疗有限公司  <code>前端开发工程师</code><br>开发医院自动化系统，包含特护单打印，基础护理自动化，知识文库，医生排班<br>主要处理复杂的逻辑数据问题，开发公司常用指令组件，日历组件，input数值筛选，树状文件夹，以及快速生成表格等，对angular有比较深入的使用和了解，对js性能提升有一定的认识。</p>
+</li>
+</ul>
+<h3 id="项目展示："><a href="#项目展示：" class="headerlink" title="项目展示："></a>项目展示：</h3><h4 id="Willcare产品"><a href="#Willcare产品" class="headerlink" title="Willcare产品"></a>Willcare产品</h4><ul>
+<li><p>云上案例: <a href="http://center.wiicare.cn/login.html(账号：admin；密码：123)）" target="_blank" rel="external">http://center.wiicare.cn/login.html(账号：admin；密码：123)）</a><br>主要职责：研发工程师，组件搭建，H5端开发。<br>主要技术：angular webpack，webwork,js,H5开发<br>主要功能：为护士站基础护理，医生站排版，遗嘱执行，特护单打印</p>
+</li>
+<li><p>Dota2RPG<br><a href="http://rpg.766.com" target="_blank" rel="external">http://rpg.766.com</a> dota2官方推荐 rpg平台</p>
+</li>
+</ul>
+<p>主要职责：前端负责<br>配合上海后端开发的同事完成dota2RPG 项目上线<br>完成基础的前端组件构建，通过可复用性的模块化搭建前端页面<br>主要技术：js,ajax,bootstrap,Avalon(mvvm),H5,css3,git</p>
+<ul>
+<li>怪物猎人    <a href="http://mho.tgbus.com/db" target="_blank" rel="external">http://mho.tgbus.com/db</a>  （PC端）<a href="http://mho.tgbus.com/db/m" target="_blank" rel="external">http://mho.tgbus.com/db/m</a> (移动端)怪物猎人数据的开发</li>
+</ul>
+<p>主要职责：前端负责<br>完成页面的切图功能实现与后端数据内容的嵌入<br>主要功能：树状装备合成，运用svg技术。手机端的适配 H5技术，浮窗位置的判断<br>主要技术：svg,js,ajax,H5,css3</p>
+<ul>
+<li>英雄联盟    <a href="http://lol.tgbus.com/db/hero/" target="_blank" rel="external">http://lol.tgbus.com/db/hero/</a> （pc端）<a href="http://lol.tgbus.com/db/hero/" target="_blank" rel="external">http://lol.tgbus.com/db/hero/</a> （移动端） 英雄联盟数据</li>
+</ul>
+<p>主要职责：前端负责<br>主要功能：ajax技术，支持多条件筛选，，瀑布流就算排版，装备合成，英雄属性<br>主要技术：js，ajax，H5，swiper，css3（touch，keyform，tranform）</p>
+<ul>
+<li>守望先锋数据查询    <a href="http://ow.766.com/" target="_blank" rel="external">http://ow.766.com/</a>  星游传媒守望先锋数据查询中心</li>
+</ul>
+<p>主要职责：前端负责<br>参与项目的开发，负责响应式&amp;&amp;gulp搭建</p>
+<h3 id="求职范围"><a href="#求职范围" class="headerlink" title="求职范围"></a>求职范围</h3><ul>
+<li>地点：杭州 全职</li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;个人信息&quot;&gt;&lt;a href=&quot;#个人信息&quot; class=&quot;headerlink&quot; title=&quot;个人信息&quot;&gt;&lt;/a&gt;个人信息&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;出生年月：    1991.10.21&lt;/li&gt;
+&lt;li&gt;民   族：    汉&lt;/li&gt;
+&lt;li&gt;学    历
+    
+    </summary>
+    
+      <category term="job" scheme="http://hangzhoujs.github.io/categories/job/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>【招聘】- 【实习生招聘】【春季社招】全面启动</title>
+    <link href="http://hangzhoujs.github.io/2017/03/10/hr/index/"/>
+    <id>http://hangzhoujs.github.io/2017/03/10/hr/index/</id>
+    <published>2017-03-09T23:30:12.000Z</published>
+    <updated>2017-06-13T08:36:30.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>【实习生招聘】【春季社招】全面启动</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;【实习生招聘】【春季社招】全面启动&lt;/p&gt;
+
+    
+    </summary>
+    
+      <category term="hr" scheme="http://hangzhoujs.github.io/categories/hr/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello 杭州</title>
+    <link href="http://hangzhoujs.github.io/2017/02/19/hello-world/"/>
+    <id>http://hangzhoujs.github.io/2017/02/19/hello-world/</id>
+    <published>2017-02-18T16:00:00.000Z</published>
+    <updated>2017-06-13T08:36:30.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>好吧这算是一个蛮好的开始</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;好吧这算是一个蛮好的开始&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+      <category term="随笔" scheme="http://hangzhoujs.github.io/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
+  
+</feed>
